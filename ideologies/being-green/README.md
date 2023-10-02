@@ -6,12 +6,6 @@
 - [What is green software?](#what-is-green-software)
 - [Who is this relevant to?](#who-is-this-relevant-to)
 - [How to be a green software practitioner?](#how-to-be-a-green-software-practitioner)
-- [Carbon Efficiency](./carbon-efficiency.md)
-- [Energy Efficiency](./energy-efficiency.md)
-- [Carbon Awareness](./carbon-awareness.md)
-- [Hardware Efficiency](./hardware-efficiency.md)
-- [Measurement](./measurement.md)
-- [Climate Commitments](./climate-commitments.md)
 
 ## Why Green coding?
 
