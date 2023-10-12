@@ -3,7 +3,7 @@
 ## Contents
 
 - [About the project](#why-does-this-project-exist)
-- [Green Coding](ideologies/being-green/README.md)
+- [Ideologies](ideologies/)
 
 ## Why does this project exist?
 
