@@ -25,7 +25,7 @@ Anyone involved in the process of building, deploying, or managing software. By 
 
 ## How to be a green software practitioner
 
-I would highly recommend taking the [Green Software Foundation](https://greensoftware.foundation/) training course however I will summarise in this Compendium.
+I would highly recommend taking the [Green Software Foundation](https://learn.greensoftware.foundation/) training course however I will summarise in this Compendium.
 
 The following traits are things that a green software practitioner needs to be aware of:
 
