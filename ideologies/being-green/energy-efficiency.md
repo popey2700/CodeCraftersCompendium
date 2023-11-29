@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Introduction](#introduction-to-energy-efficiency)
+- [Introduction](#introduction)
 - [The Key Concepts](#key-concepts)
   - [Fossil fuels and high-carbon sources of energy](#fossil-fuels-and-high-carbon-sources-of-energy)
   - [Low-carbon sources of energy](#low-carbon-sources-of-energy)
